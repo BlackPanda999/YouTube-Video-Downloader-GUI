@@ -1,2 +1,22 @@
-# YouTube-Video-Downloader-GUI
-A beginner-friendly Python project with a simple GUI to download YouTube videos in high quality (with audio). Built using Tkinter for the interface and pytube for downloading. Just paste the video link and download instantly. Perfect for learning Python, GUI development, and working with real APIs.
+# 🎥 YouTube Video Downloader (GUI Version)
+
+This is a simple and beginner-friendly Python project to download YouTube videos using a graphical interface.
+
+## 🚀 Features
+
+- Paste a YouTube link
+- Choose where to save the video
+- Download best available quality with audio
+- Simple GUI with Tkinter
+
+## 🛠️ Requirements
+
+```bash
+pip install pytube
+```
+
+## ▶️ How to Run
+
+```bash
+python youtube_downloader_gui.py
+```
